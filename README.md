@@ -16,7 +16,8 @@ Notebook: [Kaggle](https://www.kaggle.com/code/sanchitpathak/finetuning-flan-t5-
 │   └── finetuning-flan-t5-on-dialogsum-with-peft-lora.ipynb
 ├── app/
 │   └── app.py          # Gradio inference app (HuggingFace Spaces)
-└── README.md
+├── README.md
+└── thumbnail.png
 ```
 
 ---
